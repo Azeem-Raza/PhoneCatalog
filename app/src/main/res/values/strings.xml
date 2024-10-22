@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhoneCatalogApp</string>
+    <string name="search_by_first_name">Search by First Name</string>
+    <string name="search_by_last_name">Search by Last Name</string>
+    <string name="search_by_phone_number">Search by Phone Number</string>
+    <string name="first_name_txt">, firstname is: </string>
+</resources>
