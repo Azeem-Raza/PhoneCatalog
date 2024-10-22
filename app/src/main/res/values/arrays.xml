@@ -1,0 +1,29 @@
+<resources>
+    <string-array name="first_names">
+        <item>Azeem</item>
+        <item>Ghodrat</item>
+        <item>Bilal</item>
+        <item>Awais</item>
+        <item>Adam</item>
+        <item>Anjan</item>
+j
+    </string-array>
+
+    <string-array name="last_names">
+        <item>Raza</item>
+        <item>Moghadampour</item>
+        <item>Azam</item>
+        <item>Sipra</item>
+        <item>Williams</item>
+        <item>Byalkoti</item>
+    </string-array>
+
+    <string-array name="phone_numbers">
+        <item>1234567890</item>
+        <item>9876543210</item>
+        <item>5556667777</item>
+        <item>4445556666</item>
+        <item>3334445555</item>
+        <item>2223334444</item>
+    </string-array>
+</resources>
